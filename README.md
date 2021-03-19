@@ -1,4 +1,3 @@
-前言
 This is forked from [libSGM](https://github.com/fixstars/libSGM), thanks for authors' great work.
 
 # libSGM
